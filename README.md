@@ -64,5 +64,90 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tiqets is a company surfaced via the API Evangelist harvest backlog (source: travel) and added to the network as a stub for full-pipeline profiling.
-- https://tiqets.com/
+Tiqets is a global ticketing platform that allows travelers to discover, book, and instantly receive tickets for museums, attractions, theme parks, and activities worldwide. By partnering with cultural institutions and tour operators, Tiqets provides a seamless digital experience, offering mobile tickets, skip‑the‑line access, and multilingual support. The service aims to simplify travel planning and enhance on‑site experiences for millions of users each year, leveraging a robust API for partners to integrate ticketing capabilities into their own applications and platforms.
+
+**Areas:** Company · Travel · Ticketing · Marketplace
+
+## Tiqets on APIs.io
+
+Everything profiled for Tiqets is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/tiqets/](https://apis.io/providers/tiqets/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Tiqets Supplier API](https://apis.io/apis/tiqets/tiqets-supplier-api/) — The Tiqets Supplier API allows supply partners to integrate booking systems with Tiqets.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Tiqets Domain Security](https://apis.io/security/tiqets/tiqets-domain-security/)
+- [Tiqets Vulnerability Disclosure](https://apis.io/security/tiqets/tiqets-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tiqets.com/)
+- [Support](https://support.tiqets.com)
+- [Blog](https://www.tiqets.com/blog/)
+- [Security](https://www.tiqets.com/en/responsible-disclosure/)
+- [Terms of service](https://www.tiqets.com/en/terms-and-conditions/)
+- [Privacy policy](https://www.tiqets.com/en/privacy-policy/)
+- [GitHub](https://github.com/Tiqets)
+
+## API Evangelist rating
+
+**Kin Score 15.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 51.8 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/tiqets/](https://apis.io/providers/tiqets/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Tiqets: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/tiqets/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
